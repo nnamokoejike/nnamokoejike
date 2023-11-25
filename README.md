@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nnamokoejike
-- 👀 I’m interested in web development and cloud computing 
-- 🌱 I’m currently learning cloud computing 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software development and cloud computing 
+- 🌱 I’m currently learning Software Development, Deployment and Optimization using Artificial Intelligence 
+- 💞️ I’m looking to collaborate on SOftware Development Projects
 - 📫 How to reach me on email by nnamokoejike@gmail.com
 
 <!---
